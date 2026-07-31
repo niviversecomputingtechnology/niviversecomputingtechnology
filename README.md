@@ -12,8 +12,6 @@ A premium, gesture-first mobile chat application — built with React Native and
 
 The page walks through the product vision, current build status, design system, and roadmap.
 
-> The live link above goes active once GitHub Pages is enabled for this repository (Settings → Pages → Deploy from branch → `main` / `root`).
-
 ## Get in touch
 
 Open to collaboration on cloud, AI, and product engineering work — reach out via a repository issue or through our profile links.
